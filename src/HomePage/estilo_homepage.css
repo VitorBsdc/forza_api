@@ -1,0 +1,27 @@
+.Homepage {
+    background-color: #3f94f5;
+}
+img{
+   width: 900px;
+   height: 578px; 
+   border-radius: 15px; 
+}
+
+
+.pai{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.filho{
+    text-align: center;
+    border-radius: 15px;
+    padding: 7px;
+}
+
+@media (max-width: 540px){
+ img{
+
+ }
+}
